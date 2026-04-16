@@ -42,11 +42,16 @@ It is powered by a 3.7V Li-Po battery with an integrated charging circuit for co
 Wired-Audio-Converter/
 │
 ├── README.md
+│   └── (demo video link)
+│
 ├── images/
 │   └── circuit.png
+│   └── Project Front View.png
+│   └── Project Side View.png
 │
-├── media/
-│   └── (demo video link)
+├── datasheets/
+│   └── (TP4056 Module datasheet.jpg)
+│   └── (XY-BT Bluetooth Module datasheet.jpg)
 ```
 
 #Author
